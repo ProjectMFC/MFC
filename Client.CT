@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="14">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>4</ID>
+      <Description>"怪ID基址"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Client.exe+2DCE73C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>16</ID>
+      <Description>"血值"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Client.exe+2DD3090</Address>
+      <Offsets>
+        <Offset>5BC</Offset>
+        <Offset>4</Offset>
+        <Offset>20</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>18</ID>
+      <Description>"选中怪"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>031CE73C</Address>
+      <Offsets>
+        <Offset>14B8</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>19</ID>
+      <Description>"距离"</Description>
+      <Color>80000008</Color>
+      <VariableType>Float</VariableType>
+      <Address>3037D1B4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>21</ID>
+      <Description>"红药数"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>031D2E88</Address>
+      <Offsets>
+        <Offset>244</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>22</ID>
+      <Description>"No description"</Description>
+      <Color>80000008</Color>
+      <VariableType>Float</VariableType>
+      <Address>Client.exe+B39448</Address>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+  <Comments>Info about this table:
+</Comments>
+</CheatTable>
